@@ -1,7 +1,6 @@
 # **Amazon Sales Dashboard**  
 
-![Dashboard Preview](Dashboard_Screenshots/Overview.png)  
-*(Add a high-resolution image of the dashboard overview.)*  
+
 
 ---
 
@@ -169,16 +168,12 @@ This project reflects my passion for data analytics and my ability to think from
 ## **Contact Information**  
 
 - **Name**: Harsh  
-- **Email**: [Your Email Address]  
-- **LinkedIn**: [Your LinkedIn Profile]  
-- **GitHub**: [Your GitHub Profile]  
+- **Email**: valaharsh210@gmail.com  
+- **LinkedIn**: https://www.linkedin.com/in/vala-harsh/ 
+- **GitHub**: https://github.com/ValaHarsh 
 
 ---
 
 ## **License**  
 
 This project is licensed under the **MIT License**. You are free to use or modify it for personal or professional purposes.  
-
---- 
-
-This README provides a comprehensive business perspective on your project, showcasing your analytical mindset and professional approach. Let me know if you need further refinements!# Amazon_Sales_Dashboard
