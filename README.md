@@ -1,7 +1,7 @@
 ---
 
 # **Amazon Sales Dashboard** 🚀📊  
-Uploading VIDEO_033940da-e9f8-4847-befd-b5842ea8d929.mp4…
+![Screenshot 2024-11-21 134824](https://github.com/user-attachments/assets/2baf88af-8e9d-4c66-af55-82b8a8880574)
 
 ---
 
