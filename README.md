@@ -1,5 +1,7 @@
 # **Amazon Sales Dashboard**  
 
+![Screenshot 2024-11-21 134824](https://github.com/user-attachments/assets/a28d96e0-60b2-4e44-80f3-9ed9d87f725d)
+
 
 
 ---
