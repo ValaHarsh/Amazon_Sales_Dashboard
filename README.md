@@ -3,6 +3,7 @@
 # **Amazon Sales Dashboard** 🚀📊  
 ![Screenshot 2024-11-21 134824](https://github.com/user-attachments/assets/2baf88af-8e9d-4c66-af55-82b8a8880574)
 
+https://github.com/user-attachments/assets/5070e648-13bb-459c-89dd-0f5714793c9f
 ---
 
 ## **Introduction** 🌟  
