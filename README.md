@@ -14,7 +14,10 @@ This **Amazon Sales Dashboard** serves as a powerful analytical tool designed to
 The dashboard focuses on critical Key Performance Indicators (KPIs) 🧮, including revenue, category performance, and regional trends, empowering users to make informed decisions.  
 
 ---
+## **Dashboard Link**🌐 
+https://app.powerbi.com/view?r=eyJrIjoiOWEwZjc2OGEtZjM4Yy00NTJlLThlODEtYTY4OTI1OTBhNTRkIiwidCI6IjBlZGYyMTgzLWZkMDgtNDdkMi1iOTE1LWRhNzZkZThjMGM0OCJ9
 
+---
 ## **Business Objectives** 🎯  
 
 This project is built around these objectives:  
