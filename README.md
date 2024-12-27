@@ -141,9 +141,9 @@ This project is a testament to my enthusiasm for data analytics and Power BI. Th
 Feel free to connect with me for feedback or collaboration opportunities:  
 
 - **Name**: Harsh  
-- **Email**: [Your Email Address]  
-- **LinkedIn**: [Your LinkedIn Profile]  
-- **GitHub**: [Your GitHub Profile]  
+- **Email**: valaharsh210@gmail.com 
+- **LinkedIn**: linkedin.com/in/vala-harsh  
+- **GitHub**: github.com/ValaHarsh 
 
 ---
 
